@@ -25,7 +25,7 @@ This app helps users manage their budget by tracking expenses and calculating th
 
 * **HTML5** – Structure
 * **CSS3** – Styling & responsiveness
-* **JavaScript (Vanilla JS)** – Logic & DOM manipulation
+* **JavaScript (Vanilla JS)** – Logics & DOM manipulation
 * **Font Awesome** – Icons
 * **Google Fonts (Poppins)** – Typography
 
