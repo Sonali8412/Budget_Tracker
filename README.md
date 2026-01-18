@@ -12,7 +12,7 @@ This app helps users manage their budget by tracking expenses and calculating th
 * ✅ Set a total budget
 * 🧾 Add multiple expense items with title and cost
 * ✏️ Edit or delete existing expenses
-* 📊 Automatically calculates:
+* 📊 Automatically calculates:-
 
   * Total expenses
   * Remaining balance
