@@ -64,7 +64,7 @@ Budget-App/
 
 ---
 
-## 🧠 How It Works (Brief)
+## 🧠 How It Works 
 
 1. User sets a **total budget**
 2. Adds **expenses** with name and amount
